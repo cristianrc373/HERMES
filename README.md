@@ -21,3 +21,4 @@ Para instalar las dependencias, simplemente ejecuta:
 
 ```bash
 pip install flet cryptography
+```
